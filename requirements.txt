@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.0.1+cpu
+torchvision==0.15.2+cpu
+fastapi
+uvicorn[standard]
+Pillow
+mysql-connector-python
+passlib[bcrypt]
+python-jose[cryptography]
+pydantic[email]
+python-multipart
